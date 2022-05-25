@@ -1,4 +1,4 @@
-module github.com/szkiba/xk6-dotenv
+module github.com/ecolytiq-team/xk6-dotenv
 
 go 1.16
 
